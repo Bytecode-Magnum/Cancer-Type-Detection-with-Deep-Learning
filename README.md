@@ -6,7 +6,7 @@ Cancer Type Detection with Deep Learning is an ambitious project that leverages 
 
 ## Project Details
 
-### Dataset {https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images}
+### [Dataset] (https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images)
 
 Our project relies on a comprehensive cancer image dataset, carefully curated and structured into distinct subsets:
 
