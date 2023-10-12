@@ -1,7 +1,6 @@
 # Cancer Type Detection with Deep Learning
 
-## Project Overview
-
+## [Project](https://github.com/Bytecode-Magnum/Cancer-Type-Detection-with-Deep-Learning/blob/main/Transfer-learning-Cancer_Detection.ipynb)
 Cancer Type Detection with Deep Learning is an ambitious project that leverages state-of-the-art deep learning techniques to accurately classify various types of cancer from medical images. We use transfer learning with the Inception V3 architecture to fine-tune a pre-trained model and make it proficient at identifying different cancer types based on input images.
 
 ## Project Details
