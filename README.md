@@ -44,7 +44,7 @@ The project's model architecture is designed for precision and efficiency:
 
 The project thrives on the capabilities of the following libraries and frameworks:
 
-- **TensorFlow and Keras**: These tools enable us to construct, train, and evaluate our deep learning model effectively.
+- **TensorFlow and Keras**: These tools enable us to construct, train, and evaluate our deep learning model effectivelly.
 
 - **Scikit-Learn**: This library streamlines data preprocessing, dataset splitting, and model performance assessment.
 
