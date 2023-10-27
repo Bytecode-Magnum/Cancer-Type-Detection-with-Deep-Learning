@@ -17,7 +17,6 @@ Our project relies on a comprehensive cancer image dataset, carefully curated an
 ## Screenshots
 
 ![Screenshot 2023-10-27 200039](https://github.com/Bytecode-Magnum/Cancer-Type-Detection-with-Deep-Learning/assets/99680514/21d6adc7-a5e3-4ebf-9f40-702c6c1e6533)
-![Screenshot 2023-10-27 200058](https://github.com/Bytecode-Magnum/Cancer-Type-Detection-with-Deep-Learning/assets/99680514/649889da-86b5-4acb-8a4a-77368d3343b7)
 ![Screenshot 2023-10-27 200116](https://github.com/Bytecode-Magnum/Cancer-Type-Detection-with-Deep-Learning/assets/99680514/d08a4d2d-2ac5-4bbf-a2cc-941e04882a18)
 ![Screenshot 2023-10-27 200137](https://github.com/Bytecode-Magnum/Cancer-Type-Detection-with-Deep-Learning/assets/99680514/b4c12ded-a984-4b08-b3be-7b7a4ab50b08)
 
