@@ -14,6 +14,15 @@ Our project relies on a comprehensive cancer image dataset, carefully curated an
 - **Validation Dataset**: For fine-tuning the model and optimizing hyperparameters, the validation dataset plays a crucial role in ensuring the model's robustness.
 
 - **Testing Dataset**: Reserved exclusively for evaluating the model's performance on previously unseen data, the testing dataset helps us determine how well the model generalizes to real-world cases.
+## Screenshots
+
+
+![Screenshot 2023-10-27 200137](https://github.com/Bytecode-Magnum/Cancer-Type-Detection-with-Deep-Learning/assets/99680514/b4c12ded-a984-4b08-b3be-7b7a4ab50b08)
+
+
+
+
+
 
 ### Transfer Learning
 
